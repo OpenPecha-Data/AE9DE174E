@@ -1,0 +1,22 @@
+segment_sources:
+  P92A27098:
+    type: origin_type
+    relation: translation
+    language: en
+  PDB1ED394:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  220ddf0a1445407d866b7fdccc629af9:
+    P92A27098: 7313192833bd4e8e8e31d616a8cf586a
+    PDB1ED394: 6cfc4b5c086743f19f4aee6bf985b38e
+  9c91a2a05dea481da0576c0282937be5:
+    P92A27098: 1966c35fe66d40ecb93dcc6dd9d3addb
+    PDB1ED394: 138d38428496419991f1629781eb912f
+  c40d437fa958485ea9484a2ef0a8329a:
+    P92A27098: dbc7aaa09d4e474cb4601a0fdbc39ee3
+    PDB1ED394: 7a2cb97e965242d1a790d924048489b1
+  7be431dd4f324255bbfe66deea9b5063:
+    P92A27098: 5584c7e796a34ccab651d368546281e2
+    PDB1ED394: 1937ccd5e3574d4999517a2a0f74f072

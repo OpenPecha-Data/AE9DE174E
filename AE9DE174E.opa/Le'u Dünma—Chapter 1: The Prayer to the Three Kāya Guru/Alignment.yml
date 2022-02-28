@@ -1,0 +1,38 @@
+segment_sources:
+  P92A27098:
+    type: origin_type
+    relation: translation
+    language: en
+  P7F777C62:
+    type: origin_type
+    relation: translation
+    language: de
+  P346ABE44:
+    type: origin_type
+    relation: translation
+    language: fr
+  PDB1ED394:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  54e4fbda9cdc4950a836099ea68ba8c3:
+    P92A27098: c5d6b8765c14450a85af6d10de8b368a
+    P7F777C62: 8e2904f04a1c4952ae16c71d871ccfd4
+    P346ABE44: c393972879e347b9b7e7aa975ac1dcf1
+    PDB1ED394: 8240eec329ff4affa063ead403554695
+  5ba309606bc84482ba403b13c7e9d74c:
+    P92A27098: cb0b5b559f4c4edb850c66d58af50668
+    P7F777C62: 8f8f18d9efec4055b94b52c2903cdb16
+    P346ABE44: dda23843efe04e9b9e6be357671fa4cd
+    PDB1ED394: 004201d7dfcd41f69c0834a56cd78daf
+  96946d01ee4f4e84907df3c63a480d4c:
+    P92A27098: ea04e694c34d4836a5a85c466ce7bf29
+    P7F777C62: 208587b152b64f769802353d3027098c
+    P346ABE44: 07111a56041045c7835724a72d119561
+    PDB1ED394: a98c71d27b0e434caf0e849657af0ce1
+  150ac08fec4a4f80b1ea4b80b5055219:
+    P92A27098: 42da2badc3ac49c2ad0ef50eeee77787
+    P7F777C62: d228aef53deb4fabb873f9f0bdd9a188
+    P346ABE44: 982132ff7c4f49fdb333c0599e55069e
+    PDB1ED394: ffe3e2b82f6f434eb029b82d32048a28
